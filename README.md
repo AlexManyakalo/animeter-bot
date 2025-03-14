@@ -1,5 +1,5 @@
 # animeter-bot
 ## О боте
-- [Бот](https://t.me/animeter_1_bot)
+- <a href="https://t.me/animeter_1_bot" target="_blank">Бот</a>
 ## Как пользоваться
 ## Поддержка проекта
